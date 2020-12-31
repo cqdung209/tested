@@ -1,0 +1,115 @@
+#main-content {
+    margin-top: 20px;
+}
+
+.left {
+    float: left;
+    width: 40%;
+    text-align: center;
+    position: center;
+}
+.right {
+    float: right;
+    width: 60%;
+    text-align: center;
+    font-size: 70px;
+    color:#ffff;
+    background:purple;
+    margin-top: 17%;
+    
+}
+ body {
+    background:purple;
+ }
+ .container-product {
+     text-align: center;
+     color: seashell;
+     font-size: 30px;
+     font-weight: bolder;
+ }
+
+
+
+ 
+
+
+
+
+
+ .product-block1 {
+     float: left;
+     width: 30%;
+     margin-right: 20px;
+     margin-left:20px;
+     margin-top: 30px;
+ }
+ .product-block2 {
+  float:left;  
+  width: 30%; 
+  margin-right: 20px;
+  margin-top: 30px;
+ }
+ .product-block3 {
+    float:left;  
+    width: 30%;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.product-block4 {
+    float:left;  
+    ;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.product-block5 {
+    float:left;  
+    ;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.product-detail {
+
+margin-bottom: 10px;
+}
+.button-add :hover{
+  font-weight: bold;
+    color:rgb(2, 26, 34);
+}
+.pro-price {
+    color:lavender;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+.dung {
+    width:50%;
+    margin-left:40px;
+    float:left;
+    font-size: 30px;
+    color:whitesmoke;
+}
+.jonny {
+    width:50%;
+    margin-right:40px;
+    float: right;
+    font-size: 30px;
+    color:whitesmoke
+}
+
+
+
+
+
+
+.mb-5 {
+    position:  center;
+    margin-top: 40px;
+    float: left;
+
+}
